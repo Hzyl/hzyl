@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Hzyl 👋
 
-<!--
-**Hzyl/hzyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring **AI Engineer** passionate about building practical AI applications, structured learning systems, and open-source tools.
 
-Here are some ideas to get you started:
+[![XERJ Corpus Hub contributor](https://xerj.org)](https://xerj.org)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Project
+
+#### 🧠 [JourneyAIEngineer](https://github.com)
+A local-first bilingual AI Engineer learning platform featuring structured lessons, hands-on VS Code labs, spaced-repetition review scheduling, and a Git evidence workflow.
+- **Tech Stack:** TypeScript, Python, FastAPI
+- **Recognition:** Selected for the **[XERJ Corpus Hub](https://xerj.org)** as a worked reference implementation for AI coding agents.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** Python, TypeScript, JavaScript, SQL
+- **AI / ML:** LLM Workflows, Prompt Engineering, RAG, Model Evaluation
+- **Backend & Web:** FastAPI, Node.js, Git
+
+---
+
+### 📈 GitHub Stats
+
+![Hzyl's GitHub stats](https://vercel.app)
+
+---
+
+### 📫 Connect with me
+
+- **GitHub:** [@Hzyl](https://github.com)
+- **XERJ Hub Profile:** [hub.xerj.org/contributors/Hzyl](https://xerj.org)
