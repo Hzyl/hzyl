@@ -2,7 +2,7 @@
 
 Aspiring **AI Engineer** passionate about building practical AI applications, structured learning systems, and open-source tools.
 
-[![XERJ Corpus Hub contributor](https://xerj.org)](https://xerj.org)
+[![XERJ Corpus Hub Contributor](https://shields.io)](https://xerj.org)
 
 ---
 
